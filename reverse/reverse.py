@@ -69,7 +69,7 @@ smtp_server = "smtp.gmail.com"
 
 email_from = 'razyimond@gmail.com'
 email_list = ['razyimond@gmail.com', 'mbithiraymond@gmail.com']
-pswd = 'mpqggrfvtmpkfskv'
+pswd = 'check notes'
 
 
 
